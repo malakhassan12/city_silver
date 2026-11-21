@@ -1,0 +1,562 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "sku": "CS-RNG-9251",
+      "slug": "royal-signet-925-ring",
+      "nameAr": "خاتم سيجنت ملكي فضة 925",
+      "nameEn": "Royal Signet 925 Ring",
+      "descriptionAr": "خاتم سيجنت مصقول يدوياً من الفضة الإسترليني عيار 925 بلمسة غير لامعة وحواف هندسية متوازنة.",
+      "descriptionEn": "Hand-finished 925 sterling silver signet ring with satin brushed face and architectural bevels.",
+      "category": "rings",
+      "material": "silver_925",
+      "imageUrl": "/images/product_silver_ring_1794604055973.jpg",
+      "weightGrams": 14.5,
+      "makingCharge": 650,
+      "useSilverPricing": true,
+      "price": 1883,
+      "stock": 14,
+      "variants": [
+        "54 / 7 US",
+        "57 / 8 US",
+        "60 / 9 US",
+        "62 / 10 US"
+      ],
+      "featured": true,
+      "active": true,
+      "createdAt": "2026-11-13T23:00:21.802Z"
+    },
+    {
+      "id": "prod-2",
+      "sku": "CS-RNG-9252",
+      "slug": "solitaire-platinum-band-925",
+      "nameAr": "خاتم سوليتير مطلي بلاتين 925",
+      "nameEn": "Solitaire Rhodium 925 Band",
+      "descriptionAr": "تصميم أنيق رفيع من الفضة الإيطالية 925 مطلي بالروديوم الفاخر مع فص زركون نقي عالي البريق.",
+      "descriptionEn": "Refined rhodium-plated 925 sterling silver solitaire ring set with precision-cut cubic zirconia.",
+      "category": "rings",
+      "material": "silver_rhodium",
+      "imageUrl": "/images/product_silver_ring_1794604055973.jpg",
+      "weightGrams": 6.2,
+      "makingCharge": 520,
+      "useSilverPricing": true,
+      "price": 1047,
+      "stock": 9,
+      "variants": [
+        "52 / 6 US",
+        "54 / 7 US",
+        "57 / 8 US"
+      ],
+      "featured": true,
+      "active": true,
+      "createdAt": "2026-11-13T23:00:21.802Z"
+    },
+    {
+      "id": "prod-3",
+      "sku": "CS-NCK-9253",
+      "slug": "herringbone-drop-necklace-925",
+      "nameAr": "قلادة هيرينغبون فضة 925 بدلاية انسيابية",
+      "nameEn": "Herringbone Drop 925 Necklace",
+      "descriptionAr": "سلسلة هيرينغبون مرنة من الفضة عيار 925 تنسدل بسلاسة على الرقبة مع دلاية منحوتة وفص مضيء.",
+      "descriptionEn": "Fluid Italian herringbone 925 sterling silver chain paired with a sculpted drop pendant.",
+      "category": "necklaces",
+      "material": "silver_925",
+      "imageUrl": "/images/product_silver_necklace_1794604056451.jpg",
+      "weightGrams": 18,
+      "makingCharge": 890,
+      "useSilverPricing": true,
+      "price": 2420,
+      "stock": 7,
+      "variants": [
+        "42 cm",
+        "45 cm",
+        "50 cm"
+      ],
+      "featured": true,
+      "active": true,
+      "createdAt": "2026-11-13T23:00:21.802Z"
+    },
+    {
+      "id": "prod-4",
+      "sku": "CS-NCK-9254",
+      "slug": "obsidian-slate-collar-chain",
+      "nameAr": "سلسلة ياقة مسطحة فضة إيطالي 925",
+      "nameEn": "Flat Collar Chain 925",
+      "descriptionAr": "سلسلة مسطحة عاكسة للضوء من الفضة الخالصة عيار 925 مثالية للارتداء المنفرد أو الطبقات.",
+      "descriptionEn": "Mirror-finish flat collar chain crafted in solid 925 sterling silver for solo or layered styling.",
+      "category": "necklaces",
+      "material": "silver_rhodium",
+      "imageUrl": "/images/product_silver_necklace_1794604056451.jpg",
+      "weightGrams": 22.5,
+      "makingCharge": 940,
+      "useSilverPricing": true,
+      "price": 2853,
+      "stock": 4,
+      "variants": [
+        "40 cm",
+        "45 cm"
+      ],
+      "featured": false,
+      "active": true,
+      "createdAt": "2026-11-13T23:00:21.802Z"
+    },
+    {
+      "id": "prod-5",
+      "sku": "CS-BRC-9255",
+      "slug": "sculpted-hinged-cuff-925",
+      "nameAr": "أسورة كاف مفصلية فضة 925",
+      "nameEn": "Sculpted Hinged Cuff 925",
+      "descriptionAr": "أسورة صلبة بآلية قفل مخفية مصقولة كالمرآة من الفضة 925 المختومة بختم العيار.",
+      "descriptionEn": "Architectural solid hinged cuff bangle in mirror-polished 925 sterling silver with concealed clasp.",
+      "category": "bracelets_earrings",
+      "material": "silver_925",
+      "imageUrl": "/images/product_silver_bracelet_earrings_1794604056472.jpg",
+      "weightGrams": 28,
+      "makingCharge": 1100,
+      "useSilverPricing": true,
+      "price": 3480,
+      "stock": 6,
+      "variants": [
+        "Small 16cm",
+        "Medium 17.5cm",
+        "Large 19cm"
+      ],
+      "featured": true,
+      "active": true,
+      "createdAt": "2026-11-13T23:00:21.802Z"
+    },
+    {
+      "id": "prod-6",
+      "sku": "CS-EAR-9256",
+      "slug": "architectural-hoops-925",
+      "nameAr": "أقراط هوب هندسية فضة 925",
+      "nameEn": "Architectural Silver Hoops 925",
+      "descriptionAr": "أقراط حلقية بزوايا ناعمة من الفضة عيار 925 خفيفة الوزن ومريحة للارتداء اليومي.",
+      "descriptionEn": "Faceted geometric hoop earrings in solid 925 sterling silver with snap-lock hinge.",
+      "category": "bracelets_earrings",
+      "material": "silver_rhodium",
+      "imageUrl": "/images/product_silver_bracelet_earrings_1794604056472.jpg",
+      "weightGrams": 9.4,
+      "makingCharge": 580,
+      "useSilverPricing": true,
+      "price": 1379,
+      "stock": 18,
+      "variants": [
+        "18 mm",
+        "24 mm"
+      ],
+      "featured": false,
+      "active": true,
+      "createdAt": "2026-11-13T23:00:21.802Z"
+    },
+    {
+      "id": "prod-7",
+      "sku": "CS-BAG-201",
+      "slug": "obsidian-clasp-evening-bag",
+      "nameAr": "حقيبة سهرة جلد طبيعي أسود بقفل فضي",
+      "nameEn": "Obsidian Silver-Clasp Bag",
+      "descriptionAr": "حقيبة سهرة مهيكلة من الجلد الطبيعي المحبب باللون الأسود الداكن مع قفل معدني مصقول بلون الفضة وحزام كتف قابل للإزالة.",
+      "descriptionEn": "Structured full-grain obsidian leather evening bag featuring a geometric brushed-silver clasp and detachable strap.",
+      "category": "evening_bags",
+      "material": "full_grain_leather",
+      "useSilverPricing": false,
+      "imageUrl": "/images/product_evening_clutch_1794604057272.jpg",
+      "price": 3850,
+      "stock": 5,
+      "variants": [
+        "Obsidian Black",
+        "Charcoal"
+      ],
+      "featured": true,
+      "active": true,
+      "createdAt": "2026-11-13T23:00:21.802Z"
+    },
+    {
+      "id": "prod-8",
+      "sku": "CS-BAG-202",
+      "slug": "taupe-atelier-crossbody-tote",
+      "nameAr": "حقيبة توت جلد رمادي دافئ مع حزام كروس",
+      "nameEn": "Atelier Taupe Crossbody Tote",
+      "descriptionAr": "حقيبة يومية فاخرة من الجلد المرن بلون توب رمادي مع إكسسوارات فضية مصقولة ومساحة داخلية منظمة.",
+      "descriptionEn": "Architectural pebbled calfskin tote in warm taupe-gray with polished silver hardware and adjustable crossbody strap.",
+      "category": "tote_bags",
+      "material": "full_grain_leather",
+      "useSilverPricing": false,
+      "imageUrl": "/images/product_leather_tote_1794604057749.jpg",
+      "price": 4200,
+      "stock": 8,
+      "variants": [
+        "Warm Taupe",
+        "Platinum Gray"
+      ],
+      "featured": true,
+      "active": true,
+      "createdAt": "2026-11-13T23:00:21.802Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "slug": "rings",
+      "nameAr": "خواتم فضة 925",
+      "nameEn": "925 Silver Rings",
+      "descriptionAr": "خواتم سيجنت وسوليتير مصاغة من الفضة الإسترليني عيار 925.",
+      "descriptionEn": "Hand-finished signet and solitaire rings in 925 sterling silver.",
+      "active": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "cat-2",
+      "slug": "necklaces",
+      "nameAr": "قلائد وسلاسل",
+      "nameEn": "Necklaces & Chains",
+      "descriptionAr": "سلاسل إيطالية ودلايات فضة 925 بتشطيب بلاتيني.",
+      "descriptionEn": "Italian herringbone chains and sculpted pendants in 925 silver.",
+      "active": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "cat-3",
+      "slug": "bracelets_earrings",
+      "nameAr": "أساور وأقراط",
+      "nameEn": "Bracelets & Earrings",
+      "descriptionAr": "أساور كاف مفصلية وأقراط هندسية خفيفة.",
+      "descriptionEn": "Hinged cuff bangles and geometric hoop earrings.",
+      "active": true,
+      "sortOrder": 3
+    },
+    {
+      "id": "cat-4",
+      "slug": "evening_bags",
+      "nameAr": "حقائب سهرة",
+      "nameEn": "Evening Bags",
+      "descriptionAr": "حقائب جلدية مهيكلة للمناسبات بأقفال فضية مصقولة.",
+      "descriptionEn": "Structured leather evening silhouettes with silver-tone clasps.",
+      "active": true,
+      "sortOrder": 4
+    },
+    {
+      "id": "cat-5",
+      "slug": "tote_bags",
+      "nameAr": "حقائب توت وكروس",
+      "nameEn": "Totes & Crossbody",
+      "descriptionAr": "حقائب يومية جلد طبيعي بإكسسوارات بلاتينية.",
+      "descriptionEn": "Architectural pebbled calfskin totes and crossbody bags.",
+      "active": true,
+      "sortOrder": 5
+    }
+  ],
+  "inventoryLogs": [
+    {
+      "id": "inv-1",
+      "productId": "prod-4",
+      "sku": "CS-NCK-9254",
+      "productNameAr": "سلسلة ياقة مسطحة فضة إيطالي 925",
+      "productNameEn": "Flat Collar Chain 925",
+      "delta": -1,
+      "newStock": 4,
+      "reason": "Showroom display transfer",
+      "actorName": "ليلى المنصور | Laila Al-Mansour",
+      "createdAt": "2026-11-13T23:00:21.802Z"
+    }
+  ],
+  "silverPricing": {
+    "silver925PerGram": 85,
+    "defaultMakingChargePerGram": 35,
+    "currencyCode": "EGP",
+    "updatedAt": "2026-11-13T23:00:21.802Z",
+    "updatedBy": "ليلى المنصور | Laila Al-Mansour"
+  },
+  "settings": {
+    "storeNameAr": "سيتي سيلفر 925 والحقائب",
+    "storeNameEn": "City Silver 925 & Bags",
+    "shippingFee": 85,
+    "freeShippingThreshold": 3000,
+    "pickupAvailable": true,
+    "codAvailable": true,
+    "illustrativeNoticeAr": "تنويه: المنتجات والأسعار وأسعار الفضة المعروضة توضيحية فقط ولا يتصل المتجر ببوابة دفع حقيقية.",
+    "illustrativeNoticeEn": "Illustrative catalog: sample items, silver rates, and app-managed checkout (no live payment gateway connected)."
+  },
+  "users": [
+    {
+      "id": "user-owner",
+      "name": "ليلى المنصور | Laila Al-Mansour",
+      "email": "owner@citysilver925.demo",
+      "phone": "+20 100 000 0001",
+      "address": "Boutique HQ — Demo District",
+      "emailVerified": true,
+      "authProvider": "workspace_demo",
+      "passwordHash": "2fe7ca1339fe84bc0da95a2e43b1267574901b5d8445e61f9cf59a68e2e3db29",
+      "createdAt": "2026-11-13T23:00:21.802Z"
+    },
+    {
+      "id": "user-emp-1",
+      "name": "كريم حسن | Karim Hassan",
+      "email": "karim@citysilver925.demo",
+      "phone": "+20 100 000 0002",
+      "address": "Boutique Floor A",
+      "emailVerified": true,
+      "authProvider": "workspace_demo",
+      "passwordHash": "19dfadb642f7b37c0b32c8ff71623ab888407972349a0cbfd249ef61361c7c5d",
+      "createdAt": "2026-11-13T23:00:21.802Z"
+    },
+    {
+      "id": "user-emp-2",
+      "name": "سارة نبيل | Sara Nabil",
+      "email": "sara@citysilver925.demo",
+      "phone": "+20 100 000 0003",
+      "address": "Fulfillment Desk",
+      "emailVerified": true,
+      "authProvider": "workspace_demo",
+      "passwordHash": "19dfadb642f7b37c0b32c8ff71623ab888407972349a0cbfd249ef61361c7c5d",
+      "createdAt": "2026-11-13T23:00:21.802Z"
+    },
+    {
+      "id": "user-cust-1",
+      "name": "نور الهدى | Nour El-Hoda",
+      "email": "customer@citysilver925.demo",
+      "phone": "+20 100 000 0009",
+      "address": "14 Al-Horreya Axis, Demo City",
+      "emailVerified": true,
+      "authProvider": "email",
+      "passwordHash": "702e6dbec3ef6961a2ee6686f8fb278c16edef04ba858eaec05bbef8127cdc7f",
+      "createdAt": "2026-11-13T23:00:21.802Z"
+    }
+  ],
+  "staffRoles": [
+    {
+      "userId": "user-owner",
+      "role": "owner",
+      "titleAr": "مالك المتجر والمدير العام",
+      "titleEn": "Store Owner & General Admin",
+      "active": true,
+      "permissions": {
+        "canViewAssignedOrders": true,
+        "canViewAllOrders": true,
+        "canPrepareOrders": true,
+        "canUpdateOrderStatus": true,
+        "canHandleDeliveryPickup": true,
+        "canRecordStorePayments": true,
+        "canCompleteOrders": true,
+        "canAddProducts": true,
+        "canEditProducts": true,
+        "canManageCategories": true,
+        "canManageInventory": true,
+        "canDeleteProducts": true,
+        "canIssueRefunds": true,
+        "canEditSilverPricing": true,
+        "canViewFinancialReports": true,
+        "canManageStaff": true
+      },
+      "updatedAt": "2026-11-13T23:00:21.802Z"
+    },
+    {
+      "userId": "user-emp-1",
+      "role": "employee",
+      "titleAr": "أخصائي مبيعات وتجهيز الطلبات",
+      "titleEn": "Boutique Sales & Order Specialist",
+      "active": true,
+      "permissions": {
+        "canViewAssignedOrders": true,
+        "canViewAllOrders": true,
+        "canPrepareOrders": true,
+        "canUpdateOrderStatus": true,
+        "canHandleDeliveryPickup": true,
+        "canRecordStorePayments": true,
+        "canCompleteOrders": true,
+        "canAddProducts": true,
+        "canEditProducts": true,
+        "canManageCategories": true,
+        "canManageInventory": true,
+        "canDeleteProducts": true,
+        "canIssueRefunds": true,
+        "canEditSilverPricing": true,
+        "canViewFinancialReports": true,
+        "canManageStaff": true
+      },
+      "updatedAt": "2026-11-14T11:24:37.893Z"
+    },
+    {
+      "userId": "user-emp-2",
+      "role": "employee",
+      "titleAr": "منسقة التغليف والتسليم",
+      "titleEn": "Packaging & Dispatch Coordinator",
+      "active": true,
+      "permissions": {
+        "canViewAssignedOrders": true,
+        "canViewAllOrders": false,
+        "canPrepareOrders": true,
+        "canUpdateOrderStatus": true,
+        "canHandleDeliveryPickup": true,
+        "canRecordStorePayments": false,
+        "canCompleteOrders": true,
+        "canAddProducts": false,
+        "canEditProducts": false,
+        "canManageCategories": false,
+        "canManageInventory": false,
+        "canDeleteProducts": false,
+        "canIssueRefunds": false,
+        "canEditSilverPricing": false,
+        "canViewFinancialReports": false,
+        "canManageStaff": false
+      },
+      "updatedAt": "2026-11-13T23:00:21.802Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1042",
+      "orderNumber": "CS-1042",
+      "customerId": "user-cust-1",
+      "customerName": "نور الهدى | Nour El-Hoda",
+      "customerPhone": "+20 100 000 0009",
+      "customerEmail": "customer@citysilver925.demo",
+      "shippingAddress": "14 Al-Horreya Axis, Demo City",
+      "deliveryMethod": "delivery",
+      "paymentMethod": "cod",
+      "isReservation": false,
+      "items": [
+        {
+          "productId": "prod-1",
+          "sku": "CS-RNG-9251",
+          "nameAr": "خاتم سيجنت ملكي فضة 925",
+          "nameEn": "Royal Signet 925 Ring",
+          "variant": "57 / 8 US",
+          "unitPrice": 1883,
+          "quantity": 1,
+          "imageUrl": "/images/product_silver_ring_1794604055973.jpg",
+          "engravingNote": "N.H"
+        },
+        {
+          "productId": "prod-7",
+          "sku": "CS-BAG-201",
+          "nameAr": "حقيبة سهرة جلد طبيعي أسود بقفل فضي",
+          "nameEn": "Obsidian Silver-Clasp Bag",
+          "variant": "Obsidian Black",
+          "unitPrice": 3850,
+          "quantity": 1,
+          "imageUrl": "/images/product_evening_clutch_1794604057272.jpg"
+        }
+      ],
+      "subtotal": 5733,
+      "shippingFee": 0,
+      "total": 5733,
+      "paidAmount": 0,
+      "paymentStatus": "unpaid",
+      "status": "confirmed",
+      "assignedEmployeeId": "user-emp-1",
+      "assignedEmployeeName": "كريم حسن | Karim Hassan",
+      "checklist": {
+        "stockVerified": true,
+        "qualityInspected": false,
+        "packaged": false
+      },
+      "courierNote": "",
+      "paymentLogs": [],
+      "createdAt": "2026-11-13T20:40:21.803Z",
+      "updatedAt": "2026-11-13T21:30:21.803Z",
+      "completedAt": null
+    },
+    {
+      "id": "ord-1041",
+      "orderNumber": "CS-1041",
+      "customerId": null,
+      "customerName": "مريم طارق | Mariam Tarek",
+      "customerPhone": "+20 111 222 3344",
+      "customerEmail": "mariam@example.demo",
+      "shippingAddress": "Boutique Pickup — Main Gallery",
+      "deliveryMethod": "pickup",
+      "paymentMethod": "store_counter",
+      "isReservation": true,
+      "items": [
+        {
+          "productId": "prod-5",
+          "sku": "CS-BRC-9255",
+          "nameAr": "أسورة كاف مفصلية فضة 925",
+          "nameEn": "Sculpted Hinged Cuff 925",
+          "variant": "Medium 17.5cm",
+          "unitPrice": 3480,
+          "quantity": 1,
+          "imageUrl": "/images/product_silver_bracelet_earrings_1794604056472.jpg"
+        }
+      ],
+      "subtotal": 3480,
+      "shippingFee": 0,
+      "total": 3480,
+      "paidAmount": 1000,
+      "paymentStatus": "partial",
+      "status": "preparing",
+      "assignedEmployeeId": "user-emp-1",
+      "assignedEmployeeName": "كريم حسن | Karim Hassan",
+      "checklist": {
+        "stockVerified": true,
+        "qualityInspected": true,
+        "packaged": false
+      },
+      "courierNote": "Client arrives 6:00 PM for boutique pickup",
+      "paymentLogs": [
+        {
+          "id": "pay-1",
+          "amount": 1000,
+          "method": "Reservation Deposit (Counter)",
+          "recordedBy": "ليلى المنصور | Laila Al-Mansour",
+          "recordedAt": "2026-11-13T18:00:21.803Z",
+          "note": "Initial reservation deposit"
+        }
+      ],
+      "createdAt": "2026-11-13T17:40:21.803Z",
+      "updatedAt": "2026-11-13T22:15:21.803Z",
+      "completedAt": null
+    },
+    {
+      "id": "ord-1040",
+      "orderNumber": "CS-1040",
+      "customerId": "user-cust-1",
+      "customerName": "نور الهدى | Nour El-Hoda",
+      "customerPhone": "+20 100 000 0009",
+      "customerEmail": "customer@citysilver925.demo",
+      "shippingAddress": "14 Al-Horreya Axis, Demo City",
+      "deliveryMethod": "delivery",
+      "paymentMethod": "cod",
+      "isReservation": false,
+      "items": [
+        {
+          "productId": "prod-3",
+          "sku": "CS-NCK-9253",
+          "nameAr": "قلادة هيرينغبون فضة 925 بدلاية انسيابية",
+          "nameEn": "Herringbone Drop 925 Necklace",
+          "variant": "45 cm",
+          "unitPrice": 2420,
+          "quantity": 1,
+          "imageUrl": "/images/product_silver_necklace_1794604056451.jpg"
+        }
+      ],
+      "subtotal": 2420,
+      "shippingFee": 80,
+      "total": 2500,
+      "paidAmount": 2500,
+      "paymentStatus": "paid",
+      "status": "completed",
+      "assignedEmployeeId": "user-emp-2",
+      "assignedEmployeeName": "سارة نبيل | Sara Nabil",
+      "checklist": {
+        "stockVerified": true,
+        "qualityInspected": true,
+        "packaged": true
+      },
+      "courierNote": "Delivered & signed by recipient",
+      "paymentLogs": [
+        {
+          "id": "pay-2",
+          "amount": 2500,
+          "method": "COD Settlement",
+          "recordedBy": "ليلى المنصور | Laila Al-Mansour",
+          "recordedAt": "2026-11-12T23:00:21.803Z"
+        }
+      ],
+      "createdAt": "2026-11-12T11:00:21.803Z",
+      "updatedAt": "2026-11-12T23:00:21.803Z",
+      "completedAt": "2026-11-12T23:00:21.803Z"
+    }
+  ]
+}

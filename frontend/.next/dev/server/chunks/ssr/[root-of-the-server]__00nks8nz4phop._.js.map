@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///D:/My_projects/business/frontend/src/app/employee/page.tsx"],"sourcesContent":["import type { Metadata } from 'next';\n\nexport const metadata: Metadata = {\n  title: 'Employee Operations Desk | مكتب عمليات الموظف',\n  description:\n    'Staff order preparation, packaging, delivery dispatch, and role-scoped operations workspace.',\n  robots: { index: false, follow: false },\n};\n\nexport default function EmployeePage() {\n  return null;\n}\n"],"names":["metadata","title","description","robots","index","follow","EmployeePage"],"mappings":";;;;;;AAEO,MAAMA,WAAqB;IAChCC,OAAO;IACPC,aACE;IACFC,QAAQ;QAAEC,OAAO;QAAOC,QAAQ;IAAM;AACxC;AAEe,SAASC;IACtB,OAAO;AACT"}}]
+}

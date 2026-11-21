@@ -1,0 +1,6 @@
+{
+  "name": "City Silver 925 & Bags",
+  "description": "Arabic-first bilingual luxury sterling silver 925 jewelry and artisan leather bags storefront with owner and employee operations workspaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

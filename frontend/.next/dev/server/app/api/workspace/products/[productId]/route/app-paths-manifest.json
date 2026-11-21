@@ -1,0 +1,3 @@
+{
+  "/api/workspace/products/[productId]/route": "app/api/workspace/products/[productId]/route.js"
+}

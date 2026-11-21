@@ -1,0 +1,108 @@
+Exactly! في مشروع City Silver 925 & Bags إحنا هنستخدم حاليًا Modular Monolith Architecture، مش Microservices.
+
+وده قرار مناسب جدًا لحجم وطبيعة المشروع.
+
+خلينا نثبت الـ Architecture والـ Topics بناءً على القرار ده.
+Our Backend Architecture
+Frontend
+
+React / Next.js
+
+
+Nginx
+
+Reverse Proxy · HTTPS · Load Balancing when needed
+
+
+NestJS Backend
+Modular Monolith
+Auth
+
+
+Users
+
+
+Products
+
+
+Categories
+
+
+Inventory
+
+
+Cart
+
+
+Wishlist
+
+
+Orders
+
+
+Payments
+
+
+Shipping
+
+
+Reviews
+
+
+Coupons
+
+
+Notifications
+
+
+Admin
+
+
+
+One application · One deployment · Separate internal modules
+
+
+PostgreSQL
+
+Primary database
+
+
+Redis
+
+Cache & queues
+
+
+Cloudinary
+
+Product media
+
+
+BullMQ
+
+Background jobs
+
+
+
+
+Which topics do we need?
+Topic	Our decision
+Modular Monolith	Use
+Layered Architecture	Use
+REST API	Use
+PostgreSQL	Use
+Redis	Use
+Nginx Reverse Proxy	Use
+Rate Limiting	Use
+Background Jobs	Use when needed
+Load Balancing	Future scaling
+API Gateway (Kong)	Not needed now
+RabbitMQ / Kafka	Not needed now
+Kubernetes	Not needed now
+Service Mesh	Not needed now
+Microservices	Not using
+
+Important: Modular Monolith doesn't mean we ignore scalability, security, performance, or reliability. We implement these inside our single backend application and its infrastructure.
+
+Our goal is to build a production-ready monolith that can handle the project's expected traffic and can be scaled later without prematurely introducing microservices.
+
+Next, we can organize the backend topics into a practical implementation roadmap, from project setup to production deployment.

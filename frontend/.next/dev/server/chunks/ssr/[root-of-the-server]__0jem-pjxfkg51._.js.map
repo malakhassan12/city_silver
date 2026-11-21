@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///D:/My_projects/business/frontend/src/app/track/page.tsx"],"sourcesContent":["import type { Metadata } from 'next';\n\nexport const metadata: Metadata = {\n  title: 'Track Order | تتبع طلبك',\n  description:\n    'Track your City Silver 925 jewelry or leather bag order status in real time from preparation and packaging to delivery or boutique pickup.',\n  alternates: { canonical: '/track' },\n};\n\nexport default function TrackOrderPage() {\n  return (\n    <article>\n      <h1>Track Your City Silver 925 Order | تتبع طلبك</h1>\n      <p>Enter your order reference such as CS-1042 to inspect live fulfillment progress.</p>\n    </article>\n  );\n}\n"],"names":["metadata","title","description","alternates","canonical","TrackOrderPage"],"mappings":";;;;;;;;AAEO,MAAMA,WAAqB;IAChCC,OAAO;IACPC,aACE;IACFC,YAAY;QAAEC,WAAW;IAAS;AACpC;AAEe,SAASC;IACtB,qBACE,8OAAC;;0BACC,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
+}

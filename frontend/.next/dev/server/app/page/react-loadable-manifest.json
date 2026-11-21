@@ -1,0 +1,40 @@
+{
+  "[project]/src/components/OrderTrackingView.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/OrderTrackingView.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/_19bztxg0pjdrv._.js"
+    ]
+  },
+  "[project]/src/components/OwnerWorkspace.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/OwnerWorkspace.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/src_components_OwnerWorkspace_tsx_15200hjy7ptp9._.js",
+      "static/chunks/node_modules_lucide-react_dist_esm_icons_1_yf01in1ho9t._.js"
+    ]
+  },
+  "[project]/src/components/EmployeeWorkspace.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/EmployeeWorkspace.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/src_components_EmployeeWorkspace_tsx_1-rzn8u6jgyy_._.js",
+      "static/chunks/node_modules_lucide-react_dist_esm_icons_0o5188c063bdg._.js"
+    ]
+  },
+  "[project]/src/components/ProductModal.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/ProductModal.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/src_components_ProductModal_tsx_01bw99pnrllql._.js"
+    ]
+  },
+  "[project]/src/components/CartDrawer.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/CartDrawer.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/_1lqidsodf06bx._.js"
+    ]
+  },
+  "[project]/src/components/AuthModal.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/AuthModal.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/_0ps93agtkk2sz._.js"
+    ]
+  }
+}
